@@ -92,9 +92,9 @@ The game is set in a post-apocalyptic world destroyed by a nuclear explosion. Th
 
 ## 🧑‍🤝‍🧑 Team Members
 
-* **Tabia Sultana Ritu** — 23201510
-* **Alma Usha** — 23201452
-* **Maisha Jahan Fatima** — 23201158
+* **Tabia Sultana Ritu** 
+* **Alma Usha**
+* **Maisha Jahan Fatima** 
 
 ---
 
