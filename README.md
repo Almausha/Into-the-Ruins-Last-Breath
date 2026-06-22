@@ -154,18 +154,7 @@ pip install PyOpenGL PyOpenGL_accelerate
 
 ---
 
-## 📁 Project Structure
 
-```
-Into-the-Ruins-Last-Breath/
-│
-├── Into_the_ruins_Project_Group04.py
-├── 3D_OpenGL_Intro.py
-├── Hello_openGL.py
-├── task1.py
-├── task2.py
-└── OpenGL/
-```
 
 ---
 
