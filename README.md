@@ -1,7 +1,7 @@
 
 # 🌆 Into the Ruins: Last Breath
 
-**Group 04 — CSE 423 Computer Graphics Lab**
+**CSE 423 Computer Graphics Lab**
 
 > “Can you escape the ruins?”
 
